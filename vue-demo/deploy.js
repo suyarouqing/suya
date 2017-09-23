@@ -43,8 +43,8 @@ c.on('ready', function () {
 
 });
 
-c.connect({
-  host: '182.254.150.190',
-  user: 'wanda',
-  password: ''
-});
+// c.connect({
+//   host: '',
+//   user: '',
+//   password: ''
+// });
